@@ -2,7 +2,6 @@
   "name": "@ecrowjs/tsconfig",
   "version": "1.0.0",
   "description": "Base TypeScript configurations for eCrowJS",
-  "main": "index.js",
   "repository": "git@github.com:ecrowjs/tsconfig.git",
   "author": "Eric Crowell",
   "license": "MIT",
